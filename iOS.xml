@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalLib Version="0.3">
+    <Soft AppName="com.gamevil.zenonia2" Version="0.0.0" FilePath="C:\Users\user\Adobe Flash Builder 4.6\MobileGame\MobileGame.ipa">
+        <DisplayName>MobileGame</DisplayName>
+        <Group>C:\Users\user\Adobe Flash Builder 4.6\MobileGame</Group>
+        <SupportDevice>iPhone/iPod</SupportDevice>
+        <IsFileSharingEnabled>False</IsFileSharingEnabled>
+        <IsLegalSoft>0</IsLegalSoft>
+        <Is91IPA>0</Is91IPA>
+        <Buyer>
+        </Buyer>
+        <BundleVersion>0.0.0</BundleVersion>
+        <FileSize>4229564</FileSize>
+        <LastWriteTime>2013/3/5 16:50:39</LastWriteTime>
+    </Soft>
+</LocalLib>
