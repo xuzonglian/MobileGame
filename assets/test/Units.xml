@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:76187d6fb58edcab9993a20a4ed69fd5$ -->
+<TextureAtlas imagePath="Units.png">
+    <SubTexture name="Academy-top.1.damaged" x="750" y="763" width="191" height="139"/>
+    <SubTexture name="Academy-top.1.destroyed" x="1395" y="891" width="197" height="114"/>
+    <SubTexture name="Academy-top.1" x="1663" y="883" width="202" height="143" frameX="-4" frameY="0" frameWidth="206" frameHeight="143"/>
+    <SubTexture name="Airfield-top.1.damaged" x="381" y="2" width="378" height="217" frameX="-2" frameY="0" frameWidth="380" frameHeight="217"/>
+    <SubTexture name="Airfield-top.1.destroyed" x="760" y="2" width="378" height="206" frameX="-2" frameY="0" frameWidth="380" frameHeight="206"/>
+    <SubTexture name="Airfield-top.1" x="2" y="2" width="378" height="258" frameX="-2" frameY="0" frameWidth="380" frameHeight="258"/>
+    <SubTexture name="Barracks-top.1.damaged" x="1663" y="756" width="214" height="126" frameX="-1" frameY="0" frameWidth="216" frameHeight="126"/>
+    <SubTexture name="Barracks-top.1.destroyed" x="1132" y="429" width="218" height="126" frameX="-3" frameY="0" frameWidth="222" frameHeight="126"/>
+    <SubTexture name="Barracks-top.1" x="1663" y="615" width="214" height="140" frameX="-2" frameY="0" frameWidth="216" frameHeight="140"/>
+    <SubTexture name="Bunker-top.1.damaged" x="1002" y="453" width="121" height="90"/>
+    <SubTexture name="Bunker-top.1.destroyed" x="965" y="751" width="121" height="81"/>
+    <SubTexture name="Bunker-top.1" x="238" y="583" width="122" height="90"/>
+    <SubTexture name="Challenger (1)" x="238" y="674" width="122" height="58" frameX="-1" frameY="-14" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (10)" x="665" y="1541" width="68" height="80" frameX="-37" frameY="-5" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (11)" x="386" y="1671" width="56" height="80" frameX="-38" frameY="-5" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (12)" x="1031" y="1113" width="80" height="80" frameX="-20" frameY="-7" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (13)" x="1662" y="1238" width="108" height="70" frameX="-9" frameY="-14" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (14)" x="239" y="418" width="126" height="52" frameX="-2" frameY="-25" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (15)" x="239" y="261" width="128" height="48" frameX="-2" frameY="-21" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (16)" x="238" y="526" width="124" height="56" frameX="0" frameY="-15" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (2)" x="442" y="1375" width="84" height="74" frameX="-14" frameY="-9" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (3)" x="297" y="1331" width="58" height="76" frameX="-33" frameY="-9" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (4)" x="357" y="1153" width="96" height="68" frameX="-18" frameY="-12" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (5)" x="599" y="776" width="118" height="60" frameX="-7" frameY="-14" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (6)" x="618" y="409" width="128" height="50" frameX="-1" frameY="-18" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (7)" x="239" y="310" width="128" height="44" frameX="0" frameY="-22" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (8)" x="239" y="355" width="126" height="62" frameX="-3" frameY="-17" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger (9)" x="1417" y="1161" width="92" height="78" frameX="-27" frameY="-7" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Challenger.dead" x="1866" y="1299" width="106" height="58" frameX="-10" frameY="-14" frameWidth="134" frameHeight="88"/>
+    <SubTexture name="Command Center-top.1" x="381" y="220" width="236" height="222" frameX="-4" frameY="0" frameWidth="240" frameHeight="224"/>
+    <SubTexture name="Command Center-top.2" x="366" y="443" width="234" height="252" frameX="-5" frameY="0" frameWidth="240" frameHeight="254"/>
+    <SubTexture name="Command Center-top.3" x="760" y="209" width="241" height="253" frameX="-5" frameY="0" frameWidth="247" frameHeight="255"/>
+    <SubTexture name="Command Center-top.4" x="2" y="433" width="235" height="298" frameX="-2" frameY="0" frameWidth="241" frameHeight="298"/>
+    <SubTexture name="Command Center-top.5" x="1139" y="176" width="256" height="252" frameX="-3" frameY="0" frameWidth="264" frameHeight="252"/>
+    <SubTexture name="Command Center-top.damaged" x="1139" y="2" width="266" height="173"/>
+    <SubTexture name="Command Center-top.destroyed" x="1396" y="259" width="229" height="127"/>
+    <SubTexture name="Flamethrower (1)" x="1413" y="1993" width="42" height="41" frameX="-11" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (10)" x="1278" y="1961" width="32" height="43" frameX="-10" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (11)" x="1460" y="1360" width="36" height="39" frameX="-10" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (12)" x="1546" y="1775" width="44" height="39" frameX="-3" frameY="-6" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (13)" x="1307" y="1617" width="38" height="43" frameX="-8" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (14)" x="1214" y="1892" width="34" height="43" frameX="-14" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (15)" x="1458" y="1876" width="40" height="41" frameX="-12" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (16)" x="822" y="1808" width="46" height="39" frameX="-11" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (17)" x="914" y="1808" width="44" height="39" frameX="-11" frameY="-6" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (18)" x="1245" y="1961" width="32" height="43" frameX="-11" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (19)" x="1345" y="1504" width="36" height="41" frameX="-10" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (2)" x="1468" y="1693" width="32" height="41" frameX="-12" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (20)" x="773" y="1808" width="48" height="39" frameX="-2" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (21)" x="1263" y="1529" width="42" height="43" frameX="-6" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (22)" x="1084" y="1578" width="34" height="45" frameX="-13" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (23)" x="1021" y="1971" width="40" height="45" frameX="-12" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (24)" x="724" y="1808" width="48" height="39" frameX="-10" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (25)" x="1522" y="1438" width="42" height="37" frameX="-12" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (26)" x="1443" y="1737" width="32" height="41" frameX="-11" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (27)" x="1470" y="1564" width="34" height="39" frameX="-12" frameY="-9" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (28)" x="869" y="1808" width="44" height="39" frameX="-3" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (29)" x="1269" y="1663" width="38" height="43" frameX="-8" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (3)" x="1380" y="1460" width="36" height="41" frameX="-10" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (30)" x="1177" y="1962" width="34" height="43" frameX="-12" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (31)" x="1438" y="1951" width="40" height="41" frameX="-10" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (32)" x="1505" y="1564" width="46" height="37" frameX="-11" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (33)" x="1395" y="1951" width="42" height="41" frameX="-11" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (34)" x="1249" y="1892" width="32" height="43" frameX="-11" frameY="-6" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (35)" x="1612" y="1975" width="38" height="39" frameX="-11" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (36)" x="1106" y="1806" width="46" height="41" frameX="-4" frameY="-6" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (37)" x="970" y="1578" width="38" height="45" frameX="-8" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (38)" x="1060" y="1624" width="34" height="45" frameX="-12" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (39)" x="1204" y="1804" width="40" height="43" frameX="-10" frameY="-5" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (4)" x="1296" y="1462" width="44" height="41" frameX="-3" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (40)" x="923" y="1587" width="46" height="41" frameX="-10" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (5)" x="1571" y="1979" width="40" height="39" frameX="-7" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (6)" x="1432" y="1609" width="34" height="41" frameX="-13" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (7)" x="1456" y="1993" width="40" height="41" frameX="-10" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (8)" x="1249" y="1462" width="46" height="41" frameX="-10" frameY="-7" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower (9)" x="1548" y="1899" width="42" height="39" frameX="-11" frameY="-8" frameWidth="74" frameHeight="57"/>
+    <SubTexture name="Flamethrower.dead" x="356" y="1780" width="51" height="29" frameX="-1" frameY="-3" frameWidth="63" frameHeight="35"/>
+    <SubTexture name="Go-Go Bar-top.1.damaged" x="1878" y="718" width="151" height="142" frameX="-2" frameY="0" frameWidth="153" frameHeight="142"/>
+    <SubTexture name="Go-Go Bar-top.1.destroyed" x="601" y="678" width="148" height="97" frameX="-2" frameY="0" frameWidth="150" frameHeight="97"/>
+    <SubTexture name="Go-Go Bar-top.1" x="1896" y="2" width="150" height="178" frameX="-1" frameY="0" frameWidth="152" frameHeight="178"/>
+    <SubTexture name="GoldMegaTank (1)" x="357" y="951" width="101" height="74" frameX="-39" frameY="-19" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (10)" x="694" y="1050" width="55" height="78" frameX="-50" frameY="-3" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (11)" x="1603" y="783" width="59" height="78" frameX="-46" frameY="-4" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (12)" x="184" y="1465" width="85" height="78" frameX="-39" frameY="-6" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (13)" x="108" y="864" width="105" height="70" frameX="-38" frameY="-13" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (14)" x="942" y="908" width="115" height="54" frameX="-39" frameY="-26" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (15)" x="942" y="963" width="115" height="52" frameX="-40" frameY="-25" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (16)" x="2" y="1010" width="101" height="74" frameX="-39" frameY="-19" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (2)" x="270" y="1470" width="83" height="78" frameX="-41" frameY="-20" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (3)" x="537" y="1338" width="55" height="76" frameX="-49" frameY="-22" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (4)" x="1497" y="1269" width="77" height="78" frameX="-35" frameY="-20" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (5)" x="2" y="864" width="105" height="72" frameX="-13" frameY="-21" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (6)" x="593" y="914" width="117" height="58" frameX="0" frameY="-23" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (7)" x="1303" y="1161" width="113" height="52" frameX="0" frameY="-25" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (8)" x="475" y="913" width="117" height="62" frameX="-1" frameY="-20" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="GoldMegaTank (9)" x="1303" y="952" width="91" height="78" frameX="-24" frameY="-6" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Gun Turret-donghua (1)" x="861" y="1775" width="44" height="32" frameX="-33" frameY="-4" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (10)" x="436" y="1752" width="50" height="26" frameX="-21" frameY="-7" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (11)" x="944" y="2021" width="52" height="24" frameX="-19" frameY="-8" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (12)" x="839" y="2022" width="54" height="24" frameX="-17" frameY="-8" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (13)" x="1495" y="1918" width="52" height="22" frameX="-17" frameY="-10" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (14)" x="1442" y="1919" width="52" height="22" frameX="-17" frameY="-10" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (15)" x="521" y="1730" width="50" height="20" frameX="-19" frameY="-11" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (16)" x="1397" y="1544" width="46" height="22" frameX="-23" frameY="-9" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (17)" x="567" y="1950" width="42" height="26" frameX="-26" frameY="-5" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (18)" x="824" y="1776" width="36" height="28" frameX="-31" frameY="-3" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (19)" x="1030" y="2017" width="32" height="28" frameX="-34" frameY="-2" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (2)" x="906" y="1773" width="38" height="34" frameX="-35" frameY="-4" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (20)" x="1059" y="1940" width="30" height="28" frameX="-35" frameY="-1" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (21)" x="1028" y="1940" width="30" height="28" frameX="-35" frameY="-1" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (22)" x="997" y="2017" width="32" height="28" frameX="-34" frameY="-2" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (23)" x="610" y="1949" width="38" height="26" frameX="-32" frameY="-4" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (24)" x="522" y="1950" width="44" height="26" frameX="-31" frameY="-5" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (25)" x="1200" y="1479" width="48" height="24" frameX="-31" frameY="-7" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (26)" x="1389" y="1928" width="52" height="22" frameX="-30" frameY="-9" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (27)" x="732" y="2024" width="54" height="22" frameX="-30" frameY="-9" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (28)" x="1169" y="1506" width="52" height="24" frameX="-32" frameY="-8" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (29)" x="1116" y="1508" width="52" height="24" frameX="-32" frameY="-8" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (3)" x="1548" y="1678" width="32" height="36" frameX="-35" frameY="-3" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (30)" x="487" y="1751" width="50" height="26" frameX="-33" frameY="-6" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (31)" x="795" y="1945" width="48" height="28" frameX="-33" frameY="-5" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (32)" x="1632" y="1702" width="44" height="32" frameX="-33" frameY="-4" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (4)" x="1593" y="1593" width="30" height="36" frameX="-37" frameY="-4" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (5)" x="586" y="1810" width="30" height="38" frameX="-36" frameY="-3" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (6)" x="1579" y="1634" width="30" height="36" frameX="-36" frameY="-4" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (7)" x="1587" y="1556" width="34" height="36" frameX="-34" frameY="-3" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (8)" x="233" y="1868" width="40" height="34" frameX="-30" frameY="-4" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-donghua (9)" x="458" y="1779" width="46" height="30" frameX="-25" frameY="-6" frameWidth="86" frameHeight="50"/>
+    <SubTexture name="Gun Turret-top.1.damaged" x="1345" y="1546" width="51" height="22" frameX="-1" frameY="0" frameWidth="53" frameHeight="22"/>
+    <SubTexture name="Gun Turret-top.1.destroyed" x="452" y="1810" width="47" height="38" frameX="-1" frameY="0" frameWidth="51" frameHeight="38"/>
+    <SubTexture name="Gun Turret-top.1" x="182" y="1868" width="50" height="34"/>
+    <SubTexture name="Heavy Gunner (1)" x="1354" y="1952" width="40" height="42" frameX="-13" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (10)" x="1380" y="1995" width="32" height="42" frameX="-13" frameY="-11" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (11)" x="500" y="1810" width="44" height="38" frameX="-6" frameY="-10" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (12)" x="1507" y="1734" width="44" height="40" frameX="-7" frameY="-8" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (13)" x="1148" y="1669" width="38" height="44" frameX="-14" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (14)" x="1144" y="1759" width="36" height="44" frameX="-19" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (15)" x="1501" y="1777" width="44" height="40" frameX="-18" frameY="-10" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (16)" x="1518" y="1818" width="42" height="40" frameX="-18" frameY="-11" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (17)" x="1181" y="1531" width="36" height="44" frameX="-15" frameY="-10" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (18)" x="1189" y="1623" width="34" height="44" frameX="-11" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (19)" x="1471" y="1821" width="46" height="40" frameX="-6" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (2)" x="988" y="1848" width="34" height="46" frameX="-14" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (20)" x="1300" y="1799" width="52" height="42" frameX="-7" frameY="-6" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (21)" x="969" y="1724" width="42" height="46" frameX="-14" frameY="-5" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (22)" x="810" y="1678" width="38" height="48" frameX="-17" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (23)" x="943" y="1848" width="44" height="46" frameX="-18" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (24)" x="1361" y="1747" width="44" height="42" frameX="-16" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (25)" x="1406" y="1746" width="36" height="42" frameX="-16" frameY="-12" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (26)" x="1437" y="1789" width="32" height="42" frameX="-14" frameY="-12" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (27)" x="545" y="1810" width="40" height="38" frameX="-7" frameY="-11" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (28)" x="1501" y="1693" width="46" height="40" frameX="-6" frameY="-8" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (29)" x="1398" y="1790" width="38" height="42" frameX="-14" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (3)" x="1150" y="1623" width="38" height="44" frameX="-9" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (30)" x="1127" y="1714" width="38" height="44" frameX="-17" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (31)" x="1305" y="1842" width="46" height="42" frameX="-17" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (32)" x="1499" y="1862" width="42" height="40" frameX="-18" frameY="-11" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (33)" x="1109" y="1669" width="38" height="44" frameX="-13" frameY="-8" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (34)" x="1187" y="1668" width="34" height="44" frameX="-12" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (35)" x="634" y="1691" width="50" height="40" frameX="-6" frameY="-8" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (36)" x="1252" y="1844" width="52" height="42" frameX="-6" frameY="-6" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (37)" x="786" y="1727" width="38" height="48" frameX="-14" frameY="-5" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (38)" x="803" y="1629" width="38" height="48" frameX="-17" frameY="-6" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (39)" x="1082" y="1716" width="44" height="44" frameX="-17" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (4)" x="1311" y="1955" width="42" height="42" frameX="-6" frameY="-8" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (40)" x="1392" y="1703" width="42" height="42" frameX="-17" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (5)" x="1421" y="1876" width="36" height="42" frameX="-14" frameY="-7" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (6)" x="1436" y="1833" width="34" height="42" frameX="-16" frameY="-8" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (7)" x="1352" y="1842" width="46" height="42" frameX="-13" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (8)" x="1333" y="1885" width="46" height="42" frameX="-13" frameY="-9" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner (9)" x="1399" y="1833" width="36" height="42" frameX="-14" frameY="-11" frameWidth="74" frameHeight="62"/>
+    <SubTexture name="Heavy Gunner.dead" x="547" y="2027" width="43" height="19" frameX="0" frameY="-6" frameWidth="47" frameHeight="31"/>
+    <SubTexture name="Hercules (1)" x="1303" y="1214" width="79" height="61" frameX="-14" frameY="-25" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (10)" x="962" y="1516" width="69" height="61" frameX="-6" frameY="-28" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (11)" x="145" y="1708" width="67" height="59" frameX="0" frameY="-28" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (12)" x="336" y="1592" width="71" height="57" frameX="0" frameY="-25" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (13)" x="1973" y="1326" width="73" height="63" frameX="0" frameY="-20" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (14)" x="903" y="1416" width="71" height="63" frameX="-8" frameY="-23" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (15)" x="276" y="1408" width="79" height="61" frameX="-18" frameY="-26" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (16)" x="1227" y="1227" width="75" height="57" frameX="-16" frameY="-25" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (17)" x="1011" y="1256" width="77" height="61" frameX="-16" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (18)" x="1973" y="1262" width="73" height="63" frameX="-8" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (19)" x="992" y="1355" width="71" height="63" frameX="0" frameY="-25" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (2)" x="819" y="1440" width="71" height="63" frameX="-6" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (20)" x="2" y="1776" width="65" height="61" frameX="0" frameY="-23" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (21)" x="684" y="1233" width="65" height="63" frameX="0" frameY="-22" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (22)" x="593" y="1485" width="71" height="61" frameX="-4" frameY="-21" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (23)" x="354" y="1476" width="77" height="57" frameX="-13" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (24)" x="441" y="1450" width="77" height="57" frameX="-15" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (25)" x="750" y="1315" width="77" height="59" frameX="-19" frameY="-30" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (26)" x="745" y="1418" width="73" height="59" frameX="-7" frameY="-30" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (27)" x="671" y="1417" width="73" height="61" frameX="0" frameY="-29" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (28)" x="245" y="1607" width="71" height="55" frameX="0" frameY="-26" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (29)" x="73" y="1765" width="65" height="61" frameX="0" frameY="-25" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (3)" x="887" y="1525" width="69" height="61" frameX="0" frameY="-25" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (30)" x="1046" y="1472" width="69" height="61" frameX="-8" frameY="-25" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (31)" x="432" y="1508" width="73" height="57" frameX="-19" frameY="-23" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (32)" x="1227" y="1167" width="75" height="59" frameX="-18" frameY="-26" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (33)" x="839" y="1313" width="77" height="59" frameX="-13" frameY="-26" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (34)" x="667" y="1479" width="71" height="61" frameX="-6" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (35)" x="817" y="1504" width="69" height="61" frameX="0" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (36)" x="568" y="1599" width="65" height="59" frameX="0" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (37)" x="682" y="1355" width="67" height="61" frameX="0" frameY="-22" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (38)" x="427" y="1566" width="71" height="57" frameX="-6" frameY="-25" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (39)" x="1227" y="1105" width="75" height="61" frameX="-16" frameY="-23" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (4)" x="665" y="1622" width="65" height="59" frameX="0" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (40)" x="519" y="1478" width="73" height="59" frameX="-13" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (5)" x="231" y="1663" width="67" height="61" frameX="0" frameY="-22" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (6)" x="506" y="1538" width="71" height="59" frameX="-6" frameY="-23" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (7)" x="920" y="1287" width="77" height="61" frameX="-16" frameY="-23" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (8)" x="593" y="1363" width="77" height="59" frameX="-14" frameY="-24" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules (9)" x="593" y="1423" width="73" height="61" frameX="-16" frameY="-28" frameWidth="115" frameHeight="107"/>
+    <SubTexture name="Hercules.dead" x="73" y="1727" width="67" height="37" frameX="-16" frameY="-25" frameWidth="87" frameHeight="65"/>
+    <SubTexture name="Humvee (1)" x="172" y="1605" width="72" height="51" frameX="-5" frameY="-21" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (10)" x="535" y="855" width="60" height="57" frameX="-11" frameY="-14" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (11)" x="306" y="1173" width="50" height="57" frameX="-15" frameY="-13" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (12)" x="683" y="1297" width="66" height="57" frameX="-7" frameY="-15" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (13)" x="263" y="1549" width="72" height="57" frameX="-5" frameY="-15" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (14)" x="1064" y="1418" width="70" height="53" frameX="-6" frameY="-16" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (15)" x="1510" y="1121" width="64" height="49" frameX="-8" frameY="-18" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (16)" x="975" y="1419" width="70" height="51" frameX="-7" frameY="-19" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (2)" x="1510" y="1171" width="64" height="49" frameX="-9" frameY="-23" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (3)" x="769" y="1975" width="50" height="47" frameX="-14" frameY="-22" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (4)" x="1333" y="661" width="62" height="51" frameX="-10" frameY="-21" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (5)" x="578" y="1547" width="68" height="51" frameX="-8" frameY="-21" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (6)" x="499" y="1598" width="68" height="49" frameX="-8" frameY="-20" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (7)" x="1510" y="1221" width="64" height="47" frameX="-7" frameY="-19" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (8)" x="1227" y="1408" width="70" height="53" frameX="-6" frameY="-17" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee (9)" x="1064" y="1360" width="70" height="57" frameX="-6" frameY="-15" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Humvee.dead" x="1333" y="713" width="62" height="41" frameX="-14" frameY="-30" frameWidth="84" frameHeight="79"/>
+    <SubTexture name="Jackrabbit (1)" x="86" y="1613" width="72" height="44" frameX="-3" frameY="-12" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (10)" x="2" y="1994" width="54" height="52" frameX="-13" frameY="-7" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (11)" x="259" y="1979" width="38" height="54" frameX="-23" frameY="-6" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (12)" x="213" y="1725" width="56" height="50" frameX="-15" frameY="-8" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (13)" x="408" y="1624" width="68" height="46" frameX="-6" frameY="-10" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (14)" x="1302" y="1377" width="78" height="38" frameX="0" frameY="-13" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (15)" x="998" y="1318" width="76" height="36" frameX="-1" frameY="-13" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (16)" x="750" y="1375" width="74" height="42" frameX="-3" frameY="-13" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (2)" x="139" y="1768" width="56" height="50" frameX="-14" frameY="-8" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (3)" x="508" y="1977" width="38" height="50" frameX="-22" frameY="-6" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (4)" x="299" y="1759" width="56" height="50" frameX="-12" frameY="-8" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (5)" x="891" y="1480" width="70" height="44" frameX="-7" frameY="-11" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (6)" x="1575" y="1291" width="78" height="38" frameX="-6" frameY="-14" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (7)" x="839" y="1276" width="80" height="36" frameX="-5" frameY="-13" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (8)" x="1303" y="1336" width="78" height="40" frameX="-6" frameY="-12" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit (9)" x="975" y="1471" width="70" height="44" frameX="-7" frameY="-10" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Jackrabbit.dead" x="317" y="1650" width="68" height="40" frameX="-8" frameY="-15" frameWidth="90" frameHeight="62"/>
+    <SubTexture name="Junkyard-top.1.damaged" x="2" y="261" width="236" height="171" frameX="-1" frameY="0" frameWidth="240" frameHeight="173"/>
+    <SubTexture name="Junkyard-top.1.destroyed" x="2" y="732" width="234" height="131" frameX="-1" frameY="0" frameWidth="244" frameHeight="135"/>
+    <SubTexture name="Junkyard-top.1" x="1663" y="183" width="230" height="207" frameX="-2" frameY="0" frameWidth="232" frameHeight="207"/>
+    <SubTexture name="Light Mine-donghua (1)" x="747" y="450" width="12" height="40" frameX="0" frameY="-4" frameWidth="14" frameHeight="44"/>
+    <SubTexture name="Light Mine-donghua (2)" x="747" y="409" width="12" height="40" frameX="0" frameY="-4" frameWidth="14" frameHeight="44"/>
+    <SubTexture name="Light Mine-top.1" x="477" y="1683" width="25" height="15" frameX="-1" frameY="-1" frameWidth="29" frameHeight="17"/>
+    <SubTexture name="Light Mine-top.2" x="316" y="1849" width="27" height="17" frameX="-1" frameY="0" frameWidth="29" frameHeight="17"/>
+    <SubTexture name="Light Mine-top.3" x="356" y="1720" width="29" height="17"/>
+    <SubTexture name="Light Mine-top.4" x="572" y="1732" width="25" height="17" frameX="-1" frameY="0" frameWidth="29" frameHeight="17"/>
+    <SubTexture name="Light Mine-top.5" x="288" y="1849" width="27" height="17" frameX="-1" frameY="0" frameWidth="29" frameHeight="17"/>
+    <SubTexture name="Light Mine-top.destroyed" x="1405" y="176" width="0" height="0" frameX="0" frameY="0" frameWidth="29" frameHeight="17"/>
+    <SubTexture name="Medic.v2 (1)" x="1467" y="1609" width="32" height="41" frameX="-1" frameY="-4" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (10)" x="1599" y="1707" width="32" height="35" frameX="-1" frameY="-8" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (11)" x="1557" y="1518" width="34" height="37" frameX="0" frameY="-5" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (12)" x="1463" y="1400" width="34" height="39" frameX="0" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (13)" x="1402" y="1567" width="34" height="41" frameX="0" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (14)" x="1517" y="1941" width="36" height="41" frameX="-4" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (15)" x="1397" y="1611" width="34" height="41" frameX="-5" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (16)" x="1500" y="1604" width="26" height="39" frameX="-8" frameY="-7" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (17)" x="1478" y="1651" width="30" height="41" frameX="-4" frameY="-6" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (18)" x="1454" y="1440" width="34" height="39" frameX="0" frameY="-7" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (19)" x="1426" y="1400" width="36" height="39" frameX="0" frameY="-5" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (2)" x="1410" y="1653" width="34" height="41" frameX="-1" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (20)" x="1591" y="1895" width="40" height="39" frameX="0" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (21)" x="1341" y="1460" width="38" height="43" frameX="0" frameY="-2" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (22)" x="1041" y="1670" width="34" height="45" frameX="-3" frameY="-2" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (23)" x="1178" y="1848" width="40" height="43" frameX="-3" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (24)" x="1489" y="1440" width="32" height="39" frameX="-8" frameY="-5" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (25)" x="1487" y="1480" width="32" height="39" frameX="-4" frameY="-6" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (26)" x="1591" y="1751" width="32" height="35" frameX="-2" frameY="-8" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (27)" x="1562" y="1596" width="30" height="37" frameX="0" frameY="-6" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (28)" x="1452" y="1484" width="34" height="39" frameX="0" frameY="-4" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (29)" x="1497" y="1984" width="36" height="41" frameX="0" frameY="-2" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (3)" x="1445" y="1651" width="32" height="41" frameX="-2" frameY="-4" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (30)" x="1367" y="1569" width="34" height="41" frameX="-4" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (31)" x="1437" y="1567" width="32" height="41" frameX="-7" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (32)" x="1498" y="1398" width="30" height="39" frameX="-6" frameY="-6" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (33)" x="1417" y="1444" width="36" height="39" frameX="-2" frameY="-6" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (34)" x="1546" y="1640" width="32" height="37" frameX="-1" frameY="-7" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (35)" x="1532" y="1358" width="38" height="37" frameX="0" frameY="-6" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (36)" x="1542" y="1859" width="42" height="39" frameX="0" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (37)" x="1101" y="1969" width="38" height="45" frameX="0" frameY="-1" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (38)" x="901" y="1725" width="34" height="47" frameX="-4" frameY="0" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (39)" x="973" y="509" width="28" height="43" frameX="-7" frameY="-2" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (4)" x="1476" y="1735" width="30" height="41" frameX="-2" frameY="-4" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (40)" x="1444" y="1524" width="34" height="39" frameX="-5" frameY="-5" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (5)" x="1497" y="1358" width="34" height="39" frameX="-4" frameY="-4" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (6)" x="1534" y="1983" width="36" height="41" frameX="-2" frameY="-3" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (7)" x="1435" y="1695" width="32" height="41" frameX="-2" frameY="-4" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (8)" x="1470" y="1779" width="30" height="41" frameX="-1" frameY="-4" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2 (9)" x="270" y="1765" width="28" height="39" frameX="-4" frameY="-7" frameWidth="50" frameHeight="49"/>
+    <SubTexture name="Medic.v2.dead" x="629" y="2026" width="35" height="20" frameX="-3" frameY="-6" frameWidth="45" frameHeight="30"/>
+    <SubTexture name="Mega Tank (1)" x="357" y="874" width="117" height="76" frameX="-26" frameY="-21" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (10)" x="356" y="1339" width="85" height="82" frameX="-34" frameY="-10" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (11)" x="2" y="1628" width="71" height="82" frameX="-37" frameY="-9" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (12)" x="458" y="1103" width="97" height="82" frameX="-28" frameY="-11" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (13)" x="237" y="733" width="121" height="72" frameX="-24" frameY="-19" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (14)" x="1002" y="272" width="131" height="58" frameX="-25" frameY="-29" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (15)" x="1002" y="331" width="131" height="54" frameX="-26" frameY="-28" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (16)" x="1002" y="386" width="129" height="66" frameX="-24" frameY="-23" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (2)" x="1303" y="1031" width="91" height="78" frameX="-31" frameY="-20" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (3)" x="1593" y="927" width="69" height="76" frameX="-41" frameY="-22" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (4)" x="750" y="1113" width="93" height="78" frameX="-29" frameY="-20" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (5)" x="942" y="833" width="121" height="74" frameX="-8" frameY="-22" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (6)" x="618" y="348" width="129" height="60" frameX="0" frameY="-26" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (7)" x="238" y="471" width="125" height="54" frameX="0" frameY="-29" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (8)" x="1002" y="209" width="131" height="62" frameX="0" frameY="-26" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank (9)" x="597" y="837" width="117" height="76" frameX="-11" frameY="-16" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Mega Tank.dead" x="593" y="1156" width="93" height="54" frameX="-34" frameY="-35" frameWidth="169" frameHeight="98"/>
+    <SubTexture name="Metal Factory-donghua (1)" x="442" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (10)" x="82" y="1908" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (11)" x="42" y="1918" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (12)" x="2" y="1918" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (13)" x="482" y="1901" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (2)" x="402" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (3)" x="362" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (4)" x="322" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (5)" x="282" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (6)" x="242" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (7)" x="202" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (8)" x="162" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-donghua (9)" x="122" y="1903" width="39" height="75"/>
+    <SubTexture name="Metal Factory-top.1.damaged" x="214" y="887" width="104" height="81" frameX="-1" frameY="0" frameWidth="108" frameHeight="81"/>
+    <SubTexture name="Metal Factory-top.1.destroyed" x="212" y="969" width="102" height="61" frameX="-2" frameY="0" frameWidth="106" frameHeight="61"/>
+    <SubTexture name="Metal Factory-top.1" x="750" y="903" width="115" height="107"/>
+    <SubTexture name="Metal Storage-top.1.damaged" x="942" y="1016" width="114" height="87" frameX="-2" frameY="0" frameWidth="116" frameHeight="87"/>
+    <SubTexture name="Metal Storage-top.1.destroyed" x="593" y="973" width="115" height="76" frameX="-2" frameY="0" frameWidth="117" frameHeight="76"/>
+    <SubTexture name="Metal Storage-top.1" x="237" y="806" width="119" height="80" frameX="-2" frameY="0" frameWidth="121" frameHeight="82"/>
+    <SubTexture name="Mine Factory-top.1.damaged" x="601" y="568" width="150" height="109"/>
+    <SubTexture name="Mine Factory-top.1.destroyed" x="1878" y="861" width="151" height="99"/>
+    <SubTexture name="Mine Factory-top.1" x="1894" y="296" width="152" height="123" frameX="0" frameY="0" frameWidth="152" frameHeight="127"/>
+    <SubTexture name="Mortar Tower-donghua (1)" x="1269" y="1936" width="35" height="24" frameX="-8" frameY="-7" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (10)" x="723" y="1948" width="35" height="26" frameX="-5" frameY="-6" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (11)" x="600" y="1659" width="33" height="26" frameX="-6" frameY="-5" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (12)" x="356" y="1691" width="29" height="28" frameX="-9" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (13)" x="1063" y="2015" width="27" height="28" frameX="-10" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (14)" x="443" y="1671" width="33" height="28" frameX="-6" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (15)" x="992" y="1942" width="35" height="28" frameX="-4" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (16)" x="956" y="1942" width="35" height="28" frameX="-4" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (17)" x="882" y="1944" width="37" height="28" frameX="-2" frameY="-3" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (18)" x="649" y="1948" width="37" height="26" frameX="-3" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (19)" x="1119" y="1940" width="37" height="24" frameX="-3" frameY="-5" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (2)" x="1233" y="1936" width="35" height="24" frameX="-8" frameY="-7" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (20)" x="1607" y="2019" width="35" height="22" frameX="-5" frameY="-6" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (21)" x="1571" y="2019" width="35" height="22" frameX="-5" frameY="-6" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (22)" x="1269" y="1504" width="37" height="24" frameX="-5" frameY="-5" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (23)" x="687" y="1948" width="35" height="26" frameX="-7" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (24)" x="844" y="1944" width="37" height="28" frameX="-6" frameY="-3" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (25)" x="920" y="1944" width="35" height="28" frameX="-7" frameY="-3" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (26)" x="1383" y="1262" width="33" height="30" frameX="-7" frameY="-2" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (27)" x="718" y="776" width="31" height="28" frameX="-7" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (28)" x="1091" y="2015" width="27" height="28" frameX="-9" frameY="-4" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (29)" x="718" y="805" width="31" height="26" frameX="-7" frameY="-5" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (3)" x="1195" y="1936" width="37" height="24" frameX="-6" frameY="-7" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (30)" x="1166" y="1479" width="33" height="26" frameX="-7" frameY="-5" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (31)" x="1119" y="2015" width="35" height="26" frameX="-7" frameY="-5" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (32)" x="1305" y="1930" width="35" height="24" frameX="-8" frameY="-7" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (4)" x="1552" y="1751" width="35" height="22" frameX="-6" frameY="-8" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (5)" x="665" y="2025" width="35" height="20" frameX="-6" frameY="-9" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (6)" x="1643" y="2015" width="35" height="22" frameX="-6" frameY="-8" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (7)" x="1157" y="1937" width="37" height="24" frameX="-4" frameY="-7" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (8)" x="1307" y="1504" width="37" height="24" frameX="-3" frameY="-8" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-donghua (9)" x="759" y="1948" width="35" height="26" frameX="-4" frameY="-6" frameWidth="47" frameHeight="36"/>
+    <SubTexture name="Mortar Tower-top.1.damaged" x="477" y="1648" width="65" height="34"/>
+    <SubTexture name="Mortar Tower-top.1.destroyed" x="543" y="1659" width="56" height="23"/>
+    <SubTexture name="Mortar Tower-top.1" x="1627" y="1855" width="41" height="33"/>
+    <SubTexture name="Oil Pump-donghua (1)" x="2" y="1212" width="100" height="126" frameX="0" frameY="-1" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="Oil Pump-donghua (2)" x="103" y="1173" width="100" height="126" frameX="0" frameY="-1" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="Oil Pump-donghua (3)" x="205" y="1158" width="100" height="126" frameX="0" frameY="-1" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="Oil Pump-donghua (4)" x="2" y="1085" width="100" height="126" frameX="0" frameY="-1" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="Oil Pump-donghua (5)" x="104" y="1046" width="100" height="126" frameX="0" frameY="-1" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="Oil Pump-donghua (6)" x="208" y="1031" width="100" height="126" frameX="0" frameY="-1" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="Oil Pump-donghua (7)" x="357" y="1026" width="100" height="126" frameX="0" frameY="-1" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="Oil Pump-donghua (8)" x="459" y="976" width="100" height="126" frameX="0" frameY="-1" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="Oil Pump-top.1.damaged" x="1866" y="1197" width="106" height="101"/>
+    <SubTexture name="Oil Pump-top.1.destroyed" x="2" y="937" width="102" height="72" frameX="-1" frameY="0" frameWidth="106" frameHeight="72"/>
+    <SubTexture name="Oil Storage-top.1.damaged" x="965" y="653" width="146" height="97"/>
+    <SubTexture name="Oil Storage-top.1.destroyed" x="973" y="553" width="150" height="99"/>
+    <SubTexture name="Oil Storage-top.1" x="618" y="220" width="138" height="127"/>
+    <SubTexture name="Paladin (1)" x="750" y="1192" width="90" height="57" frameX="-5" frameY="-15" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (10)" x="1227" y="1340" width="74" height="67" frameX="-11" frameY="-5" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (11)" x="299" y="1691" width="56" height="67" frameX="-19" frameY="-4" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (12)" x="1333" y="593" width="62" height="67" frameX="-17" frameY="-4" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (13)" x="2" y="1452" width="90" height="61" frameX="-5" frameY="-10" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (14)" x="593" y="1106" width="98" height="49" frameX="-3" frameY="-17" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (15)" x="357" y="1222" width="96" height="49" frameX="-3" frameY="-18" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (16)" x="844" y="1151" width="90" height="57" frameX="-4" frameY="-15" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (2)" x="1024" y="1194" width="80" height="61" frameX="-10" frameY="-12" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (3)" x="96" y="1984" width="54" height="61" frameX="-19" frameY="-13" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (4)" x="1303" y="1276" width="78" height="59" frameX="-8" frameY="-14" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (5)" x="1771" y="1255" width="94" height="53" frameX="-1" frameY="-17" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (6)" x="845" y="1101" width="94" height="49" frameX="-1" frameY="-17" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (7)" x="593" y="1211" width="90" height="43" frameX="-1" frameY="-19" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (8)" x="750" y="1063" width="94" height="49" frameX="0" frameY="-17" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin (9)" x="2" y="1388" width="90" height="63" frameX="-2" frameY="-8" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Paladin.dead" x="204" y="1285" width="92" height="59" frameX="-1" frameY="-14" frameWidth="108" frameHeight="75"/>
+    <SubTexture name="Power Plant-top.1.damaged" x="1112" y="902" width="190" height="139" frameX="-6" frameY="0" frameWidth="196" frameHeight="139"/>
+    <SubTexture name="Power Plant-top.1.destroyed" x="1395" y="1006" width="179" height="114" frameX="-2" frameY="0" frameWidth="181" frameHeight="114"/>
+    <SubTexture name="Power Plant-top.1" x="1663" y="1027" width="193" height="168" frameX="-2" frameY="0" frameWidth="195" frameHeight="168"/>
+    <SubTexture name="Razorback (1)" x="93" y="1426" width="90" height="62" frameX="-6" frameY="-16" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (10)" x="1313" y="755" width="82" height="70" frameX="-11" frameY="-8" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (11)" x="74" y="1658" width="70" height="68" frameX="-16" frameY="-9" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (12)" x="1417" y="1289" width="78" height="70" frameX="-12" frameY="-8" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (13)" x="935" y="1162" width="88" height="68" frameX="-7" frameY="-10" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (14)" x="357" y="1272" width="92" height="66" frameX="-4" frameY="-11" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (15)" x="593" y="1300" width="88" height="62" frameX="-6" frameY="-13" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (16)" x="103" y="1300" width="92" height="58" frameX="-4" frameY="-18" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (2)" x="841" y="1209" width="88" height="66" frameX="-7" frameY="-13" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (3)" x="828" y="1373" width="74" height="66" frameX="-14" frameY="-13" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (4)" x="917" y="1349" width="74" height="66" frameX="-13" frameY="-13" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (5)" x="450" y="1308" width="86" height="66" frameX="-8" frameY="-13" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (6)" x="94" y="1359" width="90" height="66" frameX="-6" frameY="-13" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (7)" x="185" y="1402" width="90" height="62" frameX="-5" frameY="-14" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (8)" x="750" y="1250" width="88" height="64" frameX="-6" frameY="-11" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback (9)" x="1575" y="1222" width="86" height="68" frameX="-9" frameY="-10" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Razorback.dead" x="196" y="1345" width="92" height="56" frameX="-2" frameY="-23" frameWidth="102" frameHeight="88"/>
+    <SubTexture name="Rhino (1)" x="940" y="1104" width="90" height="57" frameX="-28" frameY="-24" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (10)" x="734" y="1541" width="68" height="73" frameX="-33" frameY="-4" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (11)" x="1057" y="1039" width="54" height="73" frameX="-40" frameY="-3" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (12)" x="865" y="1031" width="76" height="69" frameX="-32" frameY="-8" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (13)" x="105" y="988" width="102" height="57" frameX="-25" frameY="-17" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (14)" x="1395" y="1121" width="114" height="39" frameX="-25" frameY="-28" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (15)" x="1112" y="1088" width="114" height="41" frameX="-26" frameY="-27" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (16)" x="454" y="1186" width="96" height="53" frameX="-26" frameY="-26" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (2)" x="354" y="1534" width="72" height="57" frameX="-33" frameY="-24" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (3)" x="151" y="1979" width="52" height="57" frameX="-41" frameY="-24" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (4)" x="930" y="1231" width="80" height="55" frameX="-26" frameY="-26" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (5)" x="593" y="1050" width="100" height="55" frameX="-11" frameY="-25" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (6)" x="1112" y="1042" width="114" height="45" frameX="0" frameY="-26" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (7)" x="1663" y="1196" width="112" height="41" frameX="0" frameY="-27" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (8)" x="750" y="1011" width="114" height="51" frameX="0" frameY="-21" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino (9)" x="454" y="1240" width="92" height="67" frameX="-17" frameY="-10" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rhino.dead" x="356" y="1422" width="84" height="53" frameX="-26" frameY="-24" frameWidth="144" frameHeight="81"/>
+    <SubTexture name="Rifleman (1)" x="1282" y="1887" width="50" height="42" frameX="-16" frameY="-10" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (10)" x="1181" y="1759" width="34" height="44" frameX="-18" frameY="-14" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (11)" x="1341" y="1704" width="50" height="42" frameX="-2" frameY="-14" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (12)" x="352" y="1810" width="50" height="38" frameX="0" frameY="-13" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (13)" x="1353" y="1793" width="44" height="42" frameX="0" frameY="-10" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (14)" x="732" y="1975" width="36" height="48" frameX="-10" frameY="-3" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (15)" x="1119" y="1578" width="46" height="44" frameX="-16" frameY="-6" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (16)" x="125" y="1862" width="56" height="40" frameX="-19" frameY="-9" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (17)" x="1310" y="1750" width="50" height="42" frameX="-19" frameY="-10" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (18)" x="987" y="1895" width="36" height="46" frameX="-15" frameY="-12" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (19)" x="1095" y="1624" width="54" height="44" frameX="0" frameY="-12" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (2)" x="1137" y="1848" width="40" height="44" frameX="-15" frameY="-11" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (20)" x="2" y="1838" width="56" height="40" frameX="0" frameY="-12" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (21)" x="759" y="1678" width="50" height="48" frameX="0" frameY="-6" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (22)" x="298" y="1979" width="38" height="54" frameX="-8" frameY="0" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (23)" x="765" y="1848" width="52" height="48" frameX="-15" frameY="-4" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (24)" x="68" y="1827" width="56" height="40" frameX="-20" frameY="-7" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (25)" x="1057" y="1807" width="48" height="40" frameX="-20" frameY="-13" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (26)" x="1166" y="1714" width="34" height="44" frameX="-17" frameY="-15" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (27)" x="403" y="1810" width="48" height="38" frameX="0" frameY="-15" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (28)" x="1008" y="1807" width="48" height="40" frameX="0" frameY="-13" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (29)" x="956" y="1677" width="46" height="46" frameX="0" frameY="-6" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (3)" x="1166" y="1578" width="36" height="44" frameX="-12" frameY="-13" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (30)" x="842" y="1629" width="36" height="48" frameX="-11" frameY="-2" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (31)" x="1346" y="1617" width="50" height="42" frameX="-17" frameY="-7" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (32)" x="2" y="1879" width="56" height="38" frameX="-20" frameY="-9" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (33)" x="1308" y="1661" width="50" height="42" frameX="-18" frameY="-11" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (34)" x="950" y="1895" width="36" height="46" frameX="-15" frameY="-12" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (35)" x="1167" y="1342" width="58" height="42" frameX="0" frameY="-12" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (36)" x="1245" y="1801" width="54" height="42" frameX="0" frameY="-11" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (37)" x="492" y="1849" width="48" height="50" frameX="0" frameY="-5" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (38)" x="57" y="1994" width="38" height="52" frameX="-10" frameY="-2" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (39)" x="1048" y="1762" width="54" height="44" frameX="-14" frameY="-6" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (4)" x="1136" y="1533" width="44" height="44" frameX="-3" frameY="-11" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (40)" x="196" y="1825" width="56" height="42" frameX="-19" frameY="-8" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (41)" x="959" y="1807" width="48" height="40" frameX="-16" frameY="-15" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (42)" x="1103" y="1761" width="40" height="44" frameX="-10" frameY="-14" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (43)" x="1290" y="1707" width="50" height="42" frameX="0" frameY="-14" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (44)" x="139" y="1819" width="56" height="42" frameX="0" frameY="-11" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (45)" x="204" y="1979" width="54" height="54" frameX="0" frameY="0" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (46)" x="1382" y="1293" width="34" height="56" frameX="-18" frameY="0" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (47)" x="196" y="1776" width="56" height="48" frameX="-18" frameY="-7" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (48)" x="687" y="1196" width="60" height="36" frameX="-16" frameY="-16" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (5)" x="1204" y="2006" width="48" height="40" frameX="-2" frameY="-11" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (6)" x="1339" y="1998" width="40" height="42" frameX="-10" frameY="-9" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (7)" x="1380" y="1885" width="40" height="42" frameX="-14" frameY="-9" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (8)" x="1359" y="1660" width="50" height="42" frameX="-16" frameY="-9" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman (9)" x="299" y="1810" width="52" height="38" frameX="-19" frameY="-12" frameWidth="96" frameHeight="66"/>
+    <SubTexture name="Rifleman.dead" x="1341" y="1928" width="47" height="23" frameX="-13" frameY="-13" frameWidth="77" frameHeight="43"/>
+    <SubTexture name="Rocket Buggy (1)" x="1313" y="889" width="81" height="62" frameX="0" frameY="-9" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (10)" x="866" y="968" width="75" height="62" frameX="-4" frameY="-6" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (11)" x="527" y="1415" width="65" height="62" frameX="-8" frameY="-6" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (12)" x="866" y="903" width="75" height="64" frameX="-5" frameY="-6" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (13)" x="93" y="1489" width="85" height="64" frameX="0" frameY="-6" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (14)" x="2" y="1514" width="85" height="60" frameX="0" frameY="-8" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (15)" x="88" y="1554" width="83" height="58" frameX="0" frameY="-8" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (16)" x="179" y="1544" width="83" height="60" frameX="0" frameY="-10" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (2)" x="1973" y="1197" width="73" height="64" frameX="-4" frameY="-8" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (3)" x="1603" y="862" width="59" height="64" frameX="-8" frameY="-6" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (4)" x="1593" y="1004" width="69" height="64" frameX="-6" frameY="-6" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (5)" x="1227" y="1042" width="75" height="62" frameX="-3" frameY="-8" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (6)" x="1089" y="1305" width="77" height="54" frameX="-4" frameY="-10" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (7)" x="1105" y="1250" width="79" height="54" frameX="-3" frameY="-9" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (8)" x="1112" y="1191" width="81" height="58" frameX="0" frameY="-8" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy (9)" x="1112" y="1130" width="81" height="60" frameX="-1" frameY="-7" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Buggy.dead" x="1227" y="1285" width="75" height="54" frameX="0" frameY="-16" frameWidth="89" frameHeight="74"/>
+    <SubTexture name="Rocket Launcher (1)" x="664" y="1975" width="34" height="49" frameX="-17" frameY="-11" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (10)" x="752" y="1898" width="32" height="49" frameX="-20" frameY="-13" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (11)" x="886" y="1677" width="36" height="47" frameX="-17" frameY="-13" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (12)" x="547" y="1977" width="42" height="49" frameX="-13" frameY="-12" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (13)" x="372" y="1979" width="32" height="53" frameX="-21" frameY="-11" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (14)" x="1194" y="1242" width="32" height="53" frameX="-20" frameY="-11" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (15)" x="660" y="1848" width="36" height="49" frameX="-18" frameY="-12" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (16)" x="902" y="1973" width="38" height="47" frameX="-16" frameY="-14" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (17)" x="699" y="1975" width="32" height="49" frameX="-17" frameY="-13" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (18)" x="732" y="1848" width="32" height="49" frameX="-18" frameY="-13" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (19)" x="647" y="1898" width="36" height="49" frameX="-15" frameY="-13" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (2)" x="697" y="1848" width="34" height="49" frameX="-18" frameY="-10" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (20)" x="306" y="1281" width="50" height="49" frameX="-6" frameY="-11" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (21)" x="715" y="886" width="34" height="57" frameX="-17" frameY="-6" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (22)" x="560" y="976" width="32" height="59" frameX="-18" frameY="-6" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (23)" x="711" y="944" width="38" height="57" frameX="-16" frameY="-7" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (24)" x="685" y="1682" width="38" height="49" frameX="-19" frameY="-11" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (25)" x="684" y="1898" width="34" height="49" frameX="-18" frameY="-13" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (26)" x="951" y="1629" width="32" height="47" frameX="-20" frameY="-14" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (27)" x="864" y="1726" width="36" height="47" frameX="-17" frameY="-13" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (28)" x="820" y="1974" width="42" height="47" frameX="-13" frameY="-13" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (29)" x="391" y="1849" width="34" height="53" frameX="-20" frameY="-8" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (3)" x="608" y="1899" width="38" height="49" frameX="-15" frameY="-10" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (30)" x="1194" y="1186" width="32" height="55" frameX="-20" frameY="-8" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (31)" x="337" y="1979" width="34" height="53" frameX="-21" frameY="-10" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (32)" x="1062" y="1969" width="38" height="45" frameX="-18" frameY="-15" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (33)" x="623" y="1848" width="36" height="49" frameX="-16" frameY="-12" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (34)" x="719" y="1898" width="32" height="49" frameX="-18" frameY="-12" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (35)" x="629" y="1976" width="34" height="49" frameX="-14" frameY="-12" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (36)" x="306" y="1231" width="50" height="49" frameX="-6" frameY="-11" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (37)" x="560" y="1094" width="32" height="57" frameX="-16" frameY="-6" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (38)" x="560" y="1036" width="32" height="57" frameX="-17" frameY="-6" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (39)" x="1194" y="1130" width="32" height="55" frameX="-21" frameY="-7" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (4)" x="482" y="1699" width="38" height="51" frameX="-14" frameY="-9" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (40)" x="863" y="1973" width="38" height="47" frameX="-18" frameY="-11" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (41)" x="1479" y="1524" width="32" height="39" frameX="-26" frameY="-25" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (42)" x="270" y="1725" width="28" height="39" frameX="-28" frameY="-25" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (43)" x="356" y="1738" width="28" height="41" frameX="-25" frameY="-25" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (44)" x="1554" y="1939" width="40" height="39" frameX="-19" frameY="-25" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (45)" x="1212" y="1961" width="32" height="43" frameX="-26" frameY="-21" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (46)" x="973" y="463" width="28" height="45" frameX="-26" frameY="-21" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (47)" x="634" y="1647" width="30" height="43" frameX="-27" frameY="-23" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (48)" x="1552" y="1558" width="34" height="37" frameX="-27" frameY="-25" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (5)" x="1135" y="1360" width="30" height="51" frameX="-24" frameY="-7" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (6)" x="426" y="1849" width="32" height="53" frameX="-21" frameY="-6" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (7)" x="440" y="1979" width="34" height="51" frameX="-21" frameY="-9" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (8)" x="825" y="1727" width="38" height="47" frameX="-16" frameY="-12" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher (9)" x="936" y="1725" width="32" height="47" frameX="-18" frameY="-15" frameWidth="80" frameHeight="75"/>
+    <SubTexture name="Rocket Launcher.dead" x="1166" y="1455" width="58" height="23" frameX="-4" frameY="-10" frameWidth="72" frameHeight="45"/>
+    <SubTexture name="Scrap Metal-donghua (1)" x="617" y="1810" width="53" height="37" frameX="0" frameY="0" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Scrap Metal-donghua (2)" x="945" y="1773" width="53" height="33" frameX="0" frameY="-3" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Scrap Metal-donghua (3)" x="1613" y="745" width="49" height="37" frameX="-3" frameY="0" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Scrap Metal-donghua (4)" x="505" y="1778" width="49" height="31" frameX="0" frameY="-2" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Scrap Metal-donghua (5)" x="555" y="1778" width="47" height="31" frameX="-9" frameY="-1" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Scrap Metal-donghua (6)" x="408" y="1780" width="49" height="29" frameX="-4" frameY="-5" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Scrap Metal-donghua (7)" x="683" y="1778" width="47" height="29" frameX="-3" frameY="-4" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Scrap Metal-donghua (8)" x="1603" y="1821" width="43" height="33" frameX="-9" frameY="-1" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Scrap Metal-donghua (9)" x="778" y="1778" width="45" height="29" frameX="-6" frameY="-4" frameWidth="57" frameHeight="37"/>
+    <SubTexture name="Sniper (1)" x="872" y="1587" width="50" height="41" frameX="-9" frameY="-10" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (10)" x="1647" y="1821" width="38" height="33" frameX="-10" frameY="-15" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (11)" x="1624" y="1743" width="32" height="33" frameX="-10" frameY="-14" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (12)" x="1581" y="1671" width="44" height="35" frameX="0" frameY="-13" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (13)" x="1296" y="2005" width="42" height="41" frameX="-2" frameY="-9" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (14)" x="522" y="1900" width="46" height="49" frameX="0" frameY="-3" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (15)" x="475" y="1979" width="32" height="51" frameX="-12" frameY="-1" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (16)" x="879" y="1629" width="36" height="47" frameX="-12" frameY="-4" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (17)" x="785" y="1897" width="44" height="47" frameX="-11" frameY="-5" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (18)" x="1417" y="1360" width="42" height="39" frameX="-10" frameY="-14" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (19)" x="1527" y="1602" width="34" height="37" frameX="-10" frameY="-15" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (2)" x="671" y="1810" width="52" height="37" frameX="-8" frameY="-13" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (20)" x="274" y="1867" width="50" height="35" frameX="0" frameY="-13" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (21)" x="1201" y="1713" width="48" height="43" frameX="0" frameY="-9" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (22)" x="1351" y="429" width="44" height="55" frameX="0" frameY="0" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (23)" x="1626" y="259" width="36" height="53" frameX="-8" frameY="0" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (24)" x="556" y="1152" width="36" height="49" frameX="-13" frameY="0" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (25)" x="1153" y="1804" width="50" height="43" frameX="-10" frameY="-7" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (26)" x="1552" y="1715" width="46" height="35" frameX="-9" frameY="-14" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (27)" x="1509" y="1644" width="36" height="37" frameX="-9" frameY="-13" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (28)" x="1155" y="2009" width="48" height="37" frameX="0" frameY="-12" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (29)" x="1203" y="1576" width="44" height="43" frameX="0" frameY="-10" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (3)" x="1417" y="1484" width="34" height="39" frameX="-11" frameY="-12" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (30)" x="1351" y="539" width="44" height="53" frameX="0" frameY="-1" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (31)" x="718" y="832" width="30" height="53" frameX="-12" frameY="0" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (32)" x="541" y="1849" width="42" height="49" frameX="-12" frameY="-1" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (33)" x="1085" y="1534" width="50" height="43" frameX="-10" frameY="-10" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (34)" x="1520" y="1480" width="44" height="37" frameX="-10" frameY="-16" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (35)" x="1610" y="1630" width="38" height="35" frameX="-9" frameY="-15" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (36)" x="999" y="1771" width="48" height="35" frameX="-2" frameY="-13" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (37)" x="1222" y="1668" width="46" height="43" frameX="0" frameY="-11" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (38)" x="344" y="1849" width="46" height="53" frameX="0" frameY="-2" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (39)" x="459" y="1849" width="32" height="51" frameX="-14" frameY="0" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (4)" x="1595" y="1935" width="38" height="39" frameX="-5" frameY="-12" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (40)" x="862" y="1848" width="42" height="47" frameX="-12" frameY="-4" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (41)" x="644" y="1778" width="38" height="31" frameX="-16" frameY="-25" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (42)" x="1626" y="1666" width="28" height="35" frameX="-13" frameY="-24" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (43)" x="603" y="1778" width="40" height="31" frameX="-1" frameY="-22" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (44)" x="731" y="1778" width="46" height="29" frameX="0" frameY="-22" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (45)" x="1529" y="1398" width="40" height="37" frameX="-6" frameY="-14" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (46)" x="1087" y="751" width="24" height="43" frameX="-21" frameY="-11" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (47)" x="1603" y="1787" width="44" height="33" frameX="-20" frameY="-21" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (48)" x="385" y="1752" width="50" height="27" frameX="-16" frameY="-26" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (5)" x="1512" y="1520" width="44" height="37" frameX="-2" frameY="-13" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (6)" x="1248" y="1575" width="42" height="43" frameX="-3" frameY="-9" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (7)" x="405" y="1979" width="34" height="51" frameX="-8" frameY="-2" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (8)" x="584" y="1849" width="38" height="49" frameX="-10" frameY="-3" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper (9)" x="1218" y="1531" width="44" height="43" frameX="-9" frameY="-7" frameWidth="68" frameHeight="65"/>
+    <SubTexture name="Sniper.dead" x="894" y="2021" width="49" height="25" frameX="0" frameY="-2" frameWidth="49" frameHeight="31"/>
+    <SubTexture name="Suicide Bomber (1)" x="1064" y="1894" width="38" height="45" frameX="-9" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (10)" x="1382" y="1502" width="34" height="41" frameX="-8" frameY="-8" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (11)" x="1140" y="1965" width="36" height="43" frameX="-8" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (12)" x="1291" y="1573" width="38" height="43" frameX="-7" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (13)" x="709" y="1002" width="40" height="47" frameX="-10" frameY="-4" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (14)" x="873" y="1896" width="38" height="47" frameX="-11" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (15)" x="916" y="1629" width="34" height="47" frameX="-13" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (16)" x="1076" y="1670" width="32" height="45" frameX="-13" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (17)" x="1102" y="1848" width="34" height="45" frameX="-10" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (18)" x="1330" y="1573" width="36" height="43" frameX="-8" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (19)" x="1268" y="1619" width="38" height="43" frameX="-7" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (2)" x="849" y="1678" width="36" height="47" frameX="-10" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (20)" x="741" y="1732" width="44" height="45" frameX="-6" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (21)" x="569" y="1899" width="38" height="49" frameX="-9" frameY="-3" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (22)" x="443" y="1700" width="38" height="51" frameX="-9" frameY="-3" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (23)" x="590" y="1977" width="38" height="49" frameX="-9" frameY="-4" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (24)" x="1135" y="1460" width="30" height="47" frameX="-13" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (25)" x="1253" y="2005" width="42" height="41" frameX="-7" frameY="-9" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (26)" x="1219" y="1848" width="32" height="43" frameX="-11" frameY="-9" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (27)" x="1049" y="1716" width="32" height="45" frameX="-9" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (28)" x="1138" y="1893" width="40" height="43" frameX="-8" frameY="-6" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (29)" x="593" y="1686" width="40" height="45" frameX="-9" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (3)" x="724" y="1682" width="34" height="49" frameX="-8" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (30)" x="1626" y="363" width="36" height="49" frameX="-12" frameY="-4" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (31)" x="1135" y="1412" width="30" height="47" frameX="-14" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (32)" x="1023" y="1848" width="42" height="45" frameX="-8" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (33)" x="696" y="1732" width="44" height="45" frameX="-6" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (34)" x="923" y="1677" width="32" height="47" frameX="-10" frameY="-7" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (35)" x="830" y="1896" width="42" height="47" frameX="-7" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (36)" x="647" y="1732" width="48" height="45" frameX="-3" frameY="-4" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (37)" x="1351" y="485" width="44" height="53" frameX="-7" frameY="-2" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (38)" x="1382" y="1350" width="34" height="53" frameX="-13" frameY="-2" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (39)" x="1626" y="313" width="36" height="49" frameX="-14" frameY="-4" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (4)" x="634" y="1599" width="30" height="47" frameX="-13" frameY="-5" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (40)" x="598" y="1732" width="48" height="45" frameX="-7" frameY="-6" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (5)" x="1179" y="1892" width="34" height="43" frameX="-13" frameY="-6" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (6)" x="1012" y="1716" width="36" height="45" frameX="-10" frameY="-6" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (7)" x="1103" y="1894" width="34" height="45" frameX="-11" frameY="-6" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (8)" x="1047" y="1578" width="36" height="45" frameX="-9" frameY="-6" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber (9)" x="1306" y="1529" width="38" height="43" frameX="-8" frameY="-9" frameWidth="64" frameHeight="61"/>
+    <SubTexture name="Suicide Bomber.dead" x="787" y="2023" width="51" height="23" frameX="0" frameY="-3" frameWidth="51" frameHeight="35"/>
+    <SubTexture name="Tech Center-top.1.damaged" x="1896" y="181" width="150" height="114" frameX="-4" frameY="0" frameWidth="154" frameHeight="114"/>
+    <SubTexture name="Tech Center-top.1.destroyed" x="601" y="471" width="144" height="96" frameX="-2" frameY="0" frameWidth="146" frameHeight="96"/>
+    <SubTexture name="Tech Center-top.1" x="1866" y="961" width="179" height="235"/>
+    <SubTexture name="Tech.v2 (1)" x="1022" y="1624" width="37" height="45" frameX="-4" frameY="-6" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (10)" x="1585" y="1855" width="41" height="39" frameX="0" frameY="-11" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (11)" x="1382" y="1404" width="43" height="39" frameX="0" frameY="-9" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (12)" x="253" y="1805" width="45" height="43" frameX="0" frameY="-5" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (13)" x="1617" y="565" width="45" height="47" frameX="-4" frameY="-4" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (14)" x="1617" y="517" width="45" height="47" frameX="-8" frameY="-5" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (15)" x="1185" y="1296" width="41" height="45" frameX="-10" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (16)" x="1066" y="1848" width="35" height="45" frameX="-7" frameY="-9" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (17)" x="905" y="1848" width="37" height="47" frameX="-4" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (18)" x="1298" y="1416" width="41" height="43" frameX="-1" frameY="-9" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (19)" x="1224" y="1620" width="43" height="43" frameX="0" frameY="-8" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (2)" x="941" y="1973" width="37" height="47" frameX="-5" frameY="-5" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (20)" x="1613" y="659" width="49" height="45" frameX="0" frameY="-4" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (21)" x="309" y="1031" width="47" height="49" frameX="0" frameY="-3" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (22)" x="1064" y="887" width="47" height="53" frameX="-5" frameY="-2" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (23)" x="1617" y="465" width="45" height="51" frameX="-8" frameY="-3" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (24)" x="1383" y="1214" width="33" height="47" frameX="-9" frameY="-6" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (25)" x="1216" y="1757" width="39" height="43" frameX="-4" frameY="-10" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (26)" x="1561" y="1815" width="41" height="39" frameX="-1" frameY="-11" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (27)" x="1479" y="1942" width="37" height="41" frameX="-1" frameY="-9" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (28)" x="547" y="1294" width="45" height="43" frameX="0" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (29)" x="818" y="1848" width="43" height="47" frameX="-4" frameY="-4" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (3)" x="912" y="1896" width="37" height="47" frameX="-6" frameY="-6" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (30)" x="309" y="1081" width="47" height="47" frameX="-6" frameY="-5" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (31)" x="984" y="1624" width="37" height="45" frameX="-11" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (32)" x="319" y="935" width="37" height="47" frameX="-5" frameY="-8" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (33)" x="547" y="1248" width="45" height="45" frameX="-1" frameY="-8" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (34)" x="551" y="1202" width="41" height="45" frameX="0" frameY="-8" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (35)" x="309" y="1129" width="47" height="43" frameX="0" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (36)" x="1613" y="613" width="49" height="45" frameX="0" frameY="-4" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (37)" x="1617" y="413" width="45" height="51" frameX="-3" frameY="-3" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (38)" x="1064" y="833" width="47" height="53" frameX="-6" frameY="-2" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (39)" x="319" y="887" width="37" height="47" frameX="-10" frameY="-5" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (4)" x="1003" y="1670" width="37" height="45" frameX="-8" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (40)" x="315" y="983" width="41" height="47" frameX="-4" frameY="-6" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (5)" x="1340" y="1416" width="41" height="43" frameX="-7" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (6)" x="1024" y="1894" width="39" height="45" frameX="-5" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (7)" x="979" y="1971" width="41" height="45" frameX="-5" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (8)" x="1009" y="1578" width="37" height="45" frameX="-4" frameY="-7" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2 (9)" x="1250" y="1712" width="39" height="43" frameX="-3" frameY="-10" frameWidth="59" frameHeight="57"/>
+    <SubTexture name="Tech.v2.dead" x="538" y="1751" width="48" height="26" frameX="-2" frameY="-7" frameWidth="54" frameHeight="38"/>
+    <SubTexture name="Wall-top.1.damaged" x="1613" y="705" width="49" height="39" frameX="-1" frameY="0" frameWidth="51" frameHeight="39"/>
+    <SubTexture name="Wall-top.1.destroyed" x="1166" y="1417" width="58" height="37"/>
+    <SubTexture name="Wall-top.1" x="1032" y="1534" width="52" height="43" frameX="-1" frameY="-1" frameWidth="54" frameHeight="45"/>
+    <SubTexture name="Wall-top.2.damaged" x="1256" y="1756" width="53" height="42"/>
+    <SubTexture name="Wall-top.2.destroyed" x="475" y="874" width="59" height="38"/>
+    <SubTexture name="Wall-top.2" x="1058" y="992" width="53" height="46"/>
+    <SubTexture name="Wall-top.3.damaged" x="59" y="1868" width="56" height="39"/>
+    <SubTexture name="Wall-top.3.destroyed" x="535" y="814" width="61" height="40"/>
+    <SubTexture name="Wall-top.3" x="538" y="1683" width="54" height="46"/>
+    <SubTexture name="War Factory-top.1.damaged" x="1396" y="387" width="220" height="181"/>
+    <SubTexture name="War Factory-top.1.destroyed" x="1396" y="752" width="206" height="138" frameX="-1" frameY="0" frameWidth="208" frameHeight="138"/>
+    <SubTexture name="War Factory-top.1" x="1663" y="2" width="232" height="180" frameX="-4" frameY="0" frameWidth="236" frameHeight="180"/>
+    <SubTexture name="War Room-top.1.damaged" x="1124" y="556" width="208" height="172" frameX="-2" frameY="0" frameWidth="210" frameHeight="172"/>
+    <SubTexture name="War Room-top.1.destroyed" x="1884" y="420" width="161" height="133" frameX="-2" frameY="0" frameWidth="167" frameHeight="133"/>
+    <SubTexture name="War Room-top.1" x="1112" y="729" width="200" height="172"/>
+    <SubTexture name="WeaponCenter-top.1.damaged" x="760" y="463" width="212" height="168" frameX="0" frameY="-33" frameWidth="220" frameHeight="220"/>
+    <SubTexture name="WeaponCenter-top.1.destroyed" x="752" y="632" width="212" height="130" frameX="0" frameY="-71" frameWidth="220" frameHeight="220"/>
+    <SubTexture name="WeaponCenter-top.1" x="1396" y="569" width="216" height="182" frameX="0" frameY="-19" frameWidth="220" frameHeight="220"/>
+    <SubTexture name="Worker (1)" x="1313" y="826" width="81" height="62" frameX="-4" frameY="-7" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (10)" x="1058" y="941" width="53" height="50" frameX="-13" frameY="-17" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (11)" x="159" y="1657" width="71" height="50" frameX="-8" frameY="-17" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (12)" x="2" y="1339" width="91" height="48" frameX="0" frameY="-15" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (13)" x="593" y="1255" width="89" height="44" frameX="0" frameY="-15" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (14)" x="1303" y="1110" width="91" height="50" frameX="0" frameY="-12" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (15)" x="1776" y="1196" width="89" height="58" frameX="0" frameY="-9" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (16)" x="1575" y="1069" width="87" height="60" frameX="-1" frameY="-8" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (2)" x="537" y="747" width="61" height="66" frameX="-12" frameY="-4" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (3)" x="692" y="1129" width="57" height="66" frameX="-14" frameY="-4" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (4)" x="745" y="1478" width="71" height="62" frameX="-8" frameY="-7" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (5)" x="2" y="1575" width="83" height="52" frameX="-3" frameY="-13" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (6)" x="1575" y="1177" width="87" height="44" frameX="-1" frameY="-14" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (7)" x="1575" y="1130" width="87" height="46" frameX="-1" frameY="-15" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (8)" x="1417" y="1240" width="79" height="48" frameX="-5" frameY="-16" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="Worker (9)" x="537" y="696" width="63" height="50" frameX="-12" frameY="-17" frameWidth="103" frameHeight="78"/>
+    <SubTexture name="buildingFootprint160x160_1" x="1878" y="636" width="160" height="81"/>
+    <SubTexture name="buildingFootprint160x160_2" x="1884" y="554" width="160" height="81"/>
+    <SubTexture name="buildingFootprint190x160_1" x="359" y="785" width="175" height="88"/>
+    <SubTexture name="buildingFootprint190x160_2" x="361" y="696" width="175" height="88"/>
+    <SubTexture name="buildingFootprint220x220_1" x="1663" y="391" width="220" height="111"/>
+    <SubTexture name="buildingFootprint220x220_2" x="1663" y="503" width="220" height="111"/>
+    <SubTexture name="cancel" x="2" y="1711" width="70" height="64"/>
+    <SubTexture name="full_icon" x="1396" y="176" width="8" height="25" frameX="-1" frameY="-1" frameWidth="10" frameHeight="27"/>
+    <SubTexture name="icon_halt" x="1090" y="1940" width="28" height="28" frameX="-9" frameY="-9" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="icon_powerlow_small" x="1313" y="729" width="19" height="24" frameX="0" frameY="-1" frameWidth="19" frameHeight="26"/>
+    <SubTexture name="mapTile" x="1406" y="2" width="256" height="256"/>
+    <SubTexture name="ok" x="734" y="1615" width="68" height="62" frameX="-1" frameY="-1" frameWidth="70" frameHeight="64"/>
+    <SubTexture name="okBtn_disabled" x="803" y="1566" width="68" height="62" frameX="-1" frameY="-1" frameWidth="70" frameHeight="64"/>
+    <SubTexture name="orderCursor" x="601" y="443" width="16" height="27"/>
+    <SubTexture name="selected_1" x="253" y="1849" width="34" height="17"/>
+    <SubTexture name="selected_2" x="1222" y="1504" width="46" height="24" frameX="-1" frameY="0" frameWidth="48" frameHeight="24"/>
+    <SubTexture name="selected_3" x="1166" y="1385" width="60" height="31" frameX="-1" frameY="0" frameWidth="62" frameHeight="31"/>
+    <SubTexture name="selected_4" x="108" y="935" width="103" height="52" frameX="-2" frameY="-1" frameWidth="107" frameHeight="54"/>
+</TextureAtlas>
