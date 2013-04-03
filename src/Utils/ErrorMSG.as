@@ -8,12 +8,10 @@ package Utils
 	{
 		private static var instance:ErrorMSG;
 		
-		private static var failed:TextField;
+		private var txtArr:Array = [];
 		
 		public function ErrorMSG()
 		{
-			failed = new TextField();
-			failed.selectable = false;
 		}
 		
 		public static function getInstance():ErrorMSG
@@ -28,17 +26,30 @@ package Utils
 		/** 屏幕中间显示错误信息 */
 		public function show(content:String=""):void
 		{
+			var failed:TextField;
+			failed = new TextField();
+			failed.selectable = false;
 			var dtf:TextFormat = new TextFormat("Arial", 12);
 			dtf.align = TextFormatAlign.CENTER;
 			dtf.bold = true;
-			dtf.color = 0xAAAAAA;
+			dtf.color = 0xFF0000;
 			
 			failed.defaultTextFormat = dtf;
 			failed.width = Global.stage.stageWidth;
 			failed.height = 30;
 			failed.y = (Global.stage.stageHeight-30)/2;
 			failed.text = content;
+			adjustLocation();
+			txtArr.push(failed);
 			Global.stage.addChild(failed);
+		}
+		
+		private function adjustLocation():void
+		{
+			for each(var txt:TextField in txtArr)
+			{
+				txt.y  -= 30;
+			}
 		}
 	}
 }

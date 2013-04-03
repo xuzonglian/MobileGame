@@ -1,5 +1,7 @@
-package
+package TestClass
 {
+	import Utils.ErrorMSG;
+	
 	import com.genome2d.components.renderables.GMovieClip;
 	import com.genome2d.components.renderables.GSprite;
 	import com.genome2d.core.GNode;
@@ -45,7 +47,7 @@ package
 		{
 			test1Gnode = new GNode();
 			//创建一个白色的50*50的方块
-			var texture:GTexture = GTextureFactory.createFromColor("test1", 0xFFFFFF, 50, 50);
+			var texture:GTexture = GTextureFactory.createFromColor("test1", 0xFFFFFF, 500, 500);
 			var sp:GSprite = test1Gnode.addComponent(GSprite) as GSprite;
 			sp.setTexture(texture);
 			gameGNode.addChild(test1Gnode);
@@ -53,7 +55,7 @@ package
 //			var smc:GMovieClip = test1Gnode.addComponent(GMovieClip) as GMovieClip;
 //			smc.setTextureAtlas(
 			test1Gnode.mouseEnabled = true;
-			test1Gnode.onMouseClick.add(test1OnMouseClick);
+//			test1Gnode.onMouseClick.add(test1OnMouseClick);
 			trace(test1Gnode.transform.x+":"+test1Gnode.transform.y);
 			
 			Genome2D.getInstance().onPreUpdate.add(test1Update);//每帧刷新执行函数
@@ -68,6 +70,7 @@ package
 		private function test1Update(deltaTime:Number):void
 		{
 			count++;
+//			ErrorMSG.getInstance().show(count+"");
 //			trace(count+":"+getTimer()+":"+deltaTime);
 		}
 		

@@ -1,5 +1,7 @@
 package
 {
+	import TestClass.MultiInputTest;
+	
 	import com.genome2d.components.GCamera;
 	import com.genome2d.components.renderables.GMovieClip;
 	import com.genome2d.components.renderables.GSprite;
@@ -24,6 +26,7 @@ package
 	import flash.ui.Multitouch;
 	import flash.ui.MultitouchInputMode;
 	import flash.utils.getTimer;
+	import TestClass.TestExcute;
 	
 	[SWF(frameRate="60")]
 	public class MobileGame extends Sprite
@@ -72,7 +75,8 @@ package
 			config.useSeparatedAlphaShaders = true;
 			Genome2D.getInstance().init(stage, config);//初始化G2D
 			//多点支持模式
-//			Multitouch.inputMode = MultitouchInputMode.TOUCH_POINT;
+//			Multitouch.inputMode = MultitouchInputMode.GESTURE;//支持手势
+			Multitouch.inputMode = MultitouchInputMode.TOUCH_POINT;//支持多点触摸
 		}
 		
 		private function onGenomeInitialized():void
@@ -122,6 +126,8 @@ package
 			TestExcute.getInstance().test1Start();
 			TestExcute.getInstance().test2Start();
 			TestExcute.getInstance().test3Start();
+//			MultiInputTest.getInstance().test1Start();
+			MultiInputTest.getInstance().test2Start();
 		}
 		
 	}
