@@ -1,6 +1,8 @@
 package
 {
+	import TestClass.LUATest;
 	import TestClass.MultiInputTest;
+	import TestClass.TestExcute;
 	
 	import com.genome2d.components.GCamera;
 	import com.genome2d.components.renderables.GMovieClip;
@@ -26,7 +28,6 @@ package
 	import flash.ui.Multitouch;
 	import flash.ui.MultitouchInputMode;
 	import flash.utils.getTimer;
-	import TestClass.TestExcute;
 	
 	[SWF(frameRate="60")]
 	public class MobileGame extends Sprite
@@ -46,6 +47,7 @@ package
 			stage.scaleMode = StageScaleMode.NO_SCALE;
 			setGlobalData();
 			initGenome();
+//			LUATest.getInstance().test1();
 		}
 		
 		private function setGlobalData():void
@@ -125,9 +127,10 @@ package
 		{
 			TestExcute.getInstance().test1Start();
 			TestExcute.getInstance().test2Start();
-			TestExcute.getInstance().test3Start();
+//			TestExcute.getInstance().test3Start();
 //			MultiInputTest.getInstance().test1Start();
 			MultiInputTest.getInstance().test2Start();
+//			LUATest.getInstance().test1();
 		}
 		
 	}
